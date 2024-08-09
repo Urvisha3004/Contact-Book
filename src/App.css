@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: lavender !important;
+}
+
+.add_btn {
+    background-color: #1B1A55 !important;
+    padding: 2px;
+    border-radius: 5px;
+    font-size: 20px !important;
+}
+.add_close{
+    background-color: rgb(164, 162, 162) !important;
+    padding: 2px;
+    border-radius: 5px;
+    font-size: 20px !important; 
+}
+h1{
+    color: #1B1A55 !important;
+}
+.add_icon {
+    color: white !important;
+    font-weight: bold;
+    font-size: 30px;
+}
+.Search{
+    width: 48%;
+    height: 40px;
+}
+.name_list{
+    width: 100%;
+    color: white;
+    border-radius: 5px;
+}
+.contact_book{
+    background-color: white;
+    display: flex !important;
+    justify-content: center !important;
+    margin-top: 30px;
+    padding: 20px;
+}
+h3{
+    color: #1B1A55 !important;
+    text-align: center;
+    padding-bottom: 10px;
+}
+.icons{
+    font-size: 20px;
+    text-align: center ;
+}
+.form-label{
+    font-weight: 600;
+    font-size: 17px;
+}
+
+
+
